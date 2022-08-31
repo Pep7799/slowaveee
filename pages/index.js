@@ -26,8 +26,8 @@ export default function Home() {
 
         <div className={styles.body}>
           <div className={styles.maintitle}>
-            <h2 className={styles.title1}>Investing in the future of web3</h2>
-            <h4  className={styles.title2}>We invest in daring Web3 founders with disruptive ideas.</h4>
+            <h2 className={styles.title1}>Investing in the <br /> future of web3</h2>
+            <h4  className={styles.title2}>We invest in daring Web3 founders with <br /> disruptive ideas.</h4>
           </div>
           <div>
             <img src="/images/coin.png" className={styles.coin} alt="coin" />
