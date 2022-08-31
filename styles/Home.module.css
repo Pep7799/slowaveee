@@ -191,5 +191,56 @@
 }
 
 @media screen and (max-width: 480px) {
+  .title1 {
+    font-family: 'Bebas Neue', cursive;  
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    text-transform: uppercase;
+    line-height: 40px;
+    margin-bottom: 10px;
+  }
+
   
+.coin {
+  height: 400px;
+  margin-right: 0px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.footertitle {
+   
+   font-size: 30px;
+  
+
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.footert2 {
+  font-size: 26px;
+}
+
+.logo3 {
+  height: 20px;
+  padding-right: 5px;
+}
+
+.logo4 {
+  height: 10px;
+  margin-bottom: 5px;
+}
+
+.footerright {
+  margin-left: 70px;
+ 
+  
+}
+
 }

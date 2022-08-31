@@ -43,9 +43,9 @@ export default function Home() {
           <h3 className={styles.footert2}>pitch@slowave.vc</h3>
         </div>
         <div>
-          <h3 className={styles.media}>Follow us on        
+          <h3 className={styles.media}>Follow us on                   
           <span className={styles.span}>
-          <FontAwesomeIcon icon={faTwitter} className = {styles.fonticon} style={{color:"#1143C5", marginLeft: "5"}}/>
+              <FontAwesomeIcon icon={faTwitter} className = {styles.fonticon} style={{color:"#1143C5", marginLeft: "10"}}/>
           </span>
           </h3>
         </div>
