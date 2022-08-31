@@ -191,6 +191,12 @@
 }
 
 @media screen and (max-width: 480px) {
+
+  .main {
+  
+    height: 90vh;
+    
+  }
   .title1 {
     font-family: 'Bebas Neue', cursive;  
     font-style: normal;
@@ -239,8 +245,28 @@
 
 .footerright {
   margin-left: 70px;
+  margin-top: 0px;
  
   
 }
 
+.footersection {
+  
+  height: 20vh;
+  background: #121212;
+  margin: 0px 70px;
+  display: flex;
+  flex-direction: column;
+
+  
+}
+
+.footer {
+  height: 10vh;
+}
+
+.line {
+  margin: 55px 70px ;
+  width: 60vw; 
+}
 }
