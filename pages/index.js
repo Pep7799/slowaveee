@@ -26,7 +26,7 @@ export default function Home() {
 
         <div className={styles.body}>
           <div className={styles.maintitle}>
-            <h1 className={styles.title1}>Investing in the future of web3</h1>
+            <h2 className={styles.title1}>Investing in the future of web3</h2>
             <h4  className={styles.title2}>We invest in daring Web3 founders with disruptive ideas.</h4>
           </div>
           <div>
