@@ -194,7 +194,7 @@
 
   .main {
   
-    height: 90vh;
+    height: 120vh;
     
   }
   .title1 {
@@ -252,7 +252,7 @@
 
 .footersection {
   
-  height: 20vh;
+  height: 25vh;
   background: #121212;
   margin: 0px 70px;
   display: flex;
